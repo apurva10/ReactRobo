@@ -2,6 +2,10 @@ import React from 'react'
 import Robo from './Robo';
 
 const RoboList = ({roboData}) =>{
+	// if(true)
+	// {
+	// 	return new Error('GOT IT');
+	// }
 	return(
 		<div>
 		{
